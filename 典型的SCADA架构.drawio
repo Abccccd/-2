@@ -1,11 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="QgNK3eTXXUzqxRTv0S-a">
-    <mxGraphModel dx="1148" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0Bb9e7Ep8R2SE3kqVJWD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="460" />
+              <mxPoint x="610" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="430" width="580" height="490" as="geometry" />
+          <mxGeometry x="850" y="650" width="580" height="490" as="geometry" />
         </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309" y="120" width="281" height="150" as="geometry" />
@@ -19,19 +28,25 @@
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;安全隔离设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="260" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-29" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="800" as="targetPoint" />
+            <mxPoint x="290" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="0Bb9e7Ep8R2SE3kqVJWD-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PLC控制柜&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="440" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;交换机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="500" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;startArrow=block;" edge="1" parent="1" source="0Bb9e7Ep8R2SE3kqVJWD-8" target="0Bb9e7Ep8R2SE3kqVJWD-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通信网络&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Bb9e7Ep8R2SE3kqVJWD-26">
-          <mxGeometry x="0.0586" y="3" relative="1" as="geometry">
-            <mxPoint x="-4" y="-17" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;PLC/RTU&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="260" height="40" as="geometry" />
@@ -71,6 +86,14 @@
         </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-25" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;场站端&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="170" y="490" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;startArrow=block;" edge="1" parent="1" source="0Bb9e7Ep8R2SE3kqVJWD-8" target="0Bb9e7Ep8R2SE3kqVJWD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;通信网络&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Bb9e7Ep8R2SE3kqVJWD-26">
+          <mxGeometry x="0.0586" y="3" relative="1" as="geometry">
+            <mxPoint x="-4" y="-17" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
