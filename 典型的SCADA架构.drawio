@@ -34,10 +34,10 @@
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="120" width="610" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SCADA应用&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;前置采集&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前置采集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;SCADA应用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="130" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0Bb9e7Ep8R2SE3kqVJWD-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;安全隔离设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
