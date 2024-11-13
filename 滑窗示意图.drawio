@@ -88,10 +88,10 @@
         <mxCell id="zTIQcLakTXrFTBq41SmU-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="210" width="20" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zTIQcLakTXrFTBq41SmU-21" value="特征&lt;font face=&quot;Times New Roman&quot;&gt;n&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zTIQcLakTXrFTBq41SmU-21" value="特征&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;n&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="280" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zTIQcLakTXrFTBq41SmU-22" value="时间&lt;font face=&quot;Times New Roman&quot;&gt;t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zTIQcLakTXrFTBq41SmU-22" value="时间&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="241.25" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zTIQcLakTXrFTBq41SmU-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -136,7 +136,7 @@
             <mxPoint x="219.57" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zTIQcLakTXrFTBq41SmU-48" value="窗宽&lt;font face=&quot;Times New Roman&quot;&gt;w&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zTIQcLakTXrFTBq41SmU-48" value="窗宽&amp;nbsp;&lt;font face=&quot;Times New Roman&quot;&gt;w&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zTIQcLakTXrFTBq41SmU-49" value="&lt;font face=&quot;Times New Roman&quot;&gt;w&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
