@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;SimSun&quot;&gt;卷积层1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="100" y="220" width="60" height="160" as="geometry" />
+          <mxGeometry x="170" y="200" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-2" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;池化层1&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="60" height="160" as="geometry" />
+          <mxGeometry x="230" y="200" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;SimSun&quot;&gt;卷积层2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="220" y="220" width="60" height="160" as="geometry" />
+          <mxGeometry x="290" y="200" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-4" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;池化层&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="280" y="220" width="60" height="160" as="geometry" />
+          <mxGeometry x="350" y="200" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;SimSun&quot;&gt;GRU层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="410" y="650" width="60" height="160" as="geometry" />
@@ -59,16 +59,52 @@
           <mxGeometry x="730" y="710" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-17" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;SimSun&quot;&gt;GRU层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="100" y="420" width="60" height="160" as="geometry" />
+          <mxGeometry x="170" y="424.5" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-18" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Attention层&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="160" y="420" width="60" height="160" as="geometry" />
+          <mxGeometry x="230" y="424.5" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-19" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Dropout层&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="220" y="420" width="60" height="160" as="geometry" />
+          <mxGeometry x="290" y="424.5" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-20" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;全连接层&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="280" y="420" width="60" height="160" as="geometry" />
+          <mxGeometry x="350" y="424.5" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="280" as="sourcePoint" />
+            <mxPoint x="150" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-22" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="504.5" as="sourcePoint" />
+            <mxPoint x="490" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-24" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="484.5" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="sourcePoint" />
+            <mxPoint x="490" y="279.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-26" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;输出&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="504.5" as="sourcePoint" />
+            <mxPoint x="150" y="504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-28" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;输入&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="484.5" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
