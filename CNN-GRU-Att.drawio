@@ -13,7 +13,7 @@
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;SimSun&quot;&gt;卷积层2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="290" y="200" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="FZFPmuW_bYs7ONxWmxmd-4" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;池化层&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="FZFPmuW_bYs7ONxWmxmd-4" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;池化层2&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="350" y="200" width="60" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FZFPmuW_bYs7ONxWmxmd-5" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;SimSun&quot;&gt;GRU层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
