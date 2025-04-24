@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
+  <diagram name="第 1 页" id="qnExi7XvmEeMgmPKpSkE">
+    <mxGraphModel dx="1213" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-1" target="kd9Of8msa-l3Urv1CHVV-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-1" target="kd9Of8msa-l3Urv1CHVV-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输入层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-2" target="kd9Of8msa-l3Urv1CHVV-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-2" target="kd9Of8msa-l3Urv1CHVV-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-7" target="kd9Of8msa-l3Urv1CHVV-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-7" target="kd9Of8msa-l3Urv1CHVV-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GRU层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="300" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-8" target="kd9Of8msa-l3Urv1CHVV-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-8" target="kd9Of8msa-l3Urv1CHVV-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LTA层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="430" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-9" target="kd9Of8msa-l3Urv1CHVV-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-9" target="kd9Of8msa-l3Urv1CHVV-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Dropout层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="kd9Of8msa-l3Urv1CHVV-10" target="kd9Of8msa-l3Urv1CHVV-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;输出层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="690" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;加载特征序列数据&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="30" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;提取风机的局部特征，输出池化后的序列特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结合位置编码与动态权重的局部时间注意力，对关键窗口动态聚焦&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="420" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;根据已经提取到的特征做出风机是否结冰的诊断&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="680" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;防止模型过拟合，提高模型的泛化能力&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="550" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-17" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;捕捉风机叶片结冰检测结冰中的长期时间依赖关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="290" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.52" y="100" as="sourcePoint" />
+            <mxPoint x="494.52" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.52" y="230" as="sourcePoint" />
+            <mxPoint x="494.52" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.52" y="360" as="sourcePoint" />
+            <mxPoint x="494.52" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.52" y="490" as="sourcePoint" />
+            <mxPoint x="494.52" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kd9Of8msa-l3Urv1CHVV-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.52" y="620" as="sourcePoint" />
+            <mxPoint x="494.52" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
