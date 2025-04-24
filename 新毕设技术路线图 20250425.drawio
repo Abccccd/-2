@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="p5fiXoCb0oHlGnUIcILo">
-    <mxGraphModel dx="1213" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="234.13" y="753.13" width="159.25" height="160" as="geometry" />
+          <mxGeometry x="340.75" y="753.13" width="159.25" height="160" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="215.75" y="990" width="600" height="60" as="geometry" />
+          <mxGeometry x="215.75" y="1031.87" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="215.75" y="270" width="600" height="132.5" as="geometry" />
@@ -94,20 +94,17 @@
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;风机叶片结冰诊断模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="27.130000000000003" y="806.87" width="101.75" height="61.87" as="geometry" />
         </mxCell>
-        <mxCell id="f8FCbJ_lQctMmRmD2ybC-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GRU-Att层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265.82" y="813.13" width="95.87" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f8FCbJ_lQctMmRmD2ybC-48" target="f8FCbJ_lQctMmRmD2ybC-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;实验结果分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="481.5" y="800.63" width="114.25" height="65" as="geometry" />
+          <mxGeometry x="540" y="800.63" width="114.25" height="65" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-51" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;研究结论&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340.75" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="340.75" y="1041.87" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;研究展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560.75" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="560.75" y="1041.87" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="f8FCbJ_lQctMmRmD2ybC-54" target="NmaUn0dJjPpodGhn62Yx-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -115,11 +112,8 @@
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风机结冰机理分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420.75" y="537.5" width="160" height="48.13" as="geometry" />
         </mxCell>
-        <mxCell id="f8FCbJ_lQctMmRmD2ybC-55" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265.82" y="766.87" width="95.87" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f8FCbJ_lQctMmRmD2ybC-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN-GRU-Att结冰预测模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="247.66" y="863.13" width="132.19" height="40" as="geometry" />
+        <mxCell id="f8FCbJ_lQctMmRmD2ybC-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN-GRU-LTA结冰诊断模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="354.28" y="868.74" width="132.19" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;A公司风机叶片维护建议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="803.13" width="120" height="60" as="geometry" />
@@ -134,7 +128,7 @@
           <mxGeometry x="27.130000000000003" y="139.07" width="101.75" height="61.87" as="geometry" />
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;总结与展望&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="990" width="101.75" height="61.87" as="geometry" />
+          <mxGeometry x="30" y="1031.87" width="101.75" height="61.87" as="geometry" />
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=23;endSize=7.98;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -156,8 +150,8 @@
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=23;endSize=7.98;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80.38000000000001" y="908.13" as="sourcePoint" />
-            <mxPoint x="80.63000000000001" y="958.13" as="targetPoint" />
+            <mxPoint x="80.38000000000001" y="950" as="sourcePoint" />
+            <mxPoint x="80.63000000000001" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=23;endSize=7.98;" parent="1" edge="1">
@@ -186,8 +180,8 @@
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=23;endSize=7.98;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="1020.44" as="sourcePoint" />
-            <mxPoint x="200" y="1020.44" as="targetPoint" />
+            <mxPoint x="150" y="1062.31" as="sourcePoint" />
+            <mxPoint x="200" y="1062.31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;风机叶片除冰原理及除冰技术&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -231,9 +225,24 @@
         </mxCell>
         <mxCell id="NmaUn0dJjPpodGhn62Yx-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=23;endSize=7.98;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="494.52" y="940" as="sourcePoint" />
-            <mxPoint x="494.77" y="980" as="targetPoint" />
+            <mxPoint x="494.52" y="981.87" as="sourcePoint" />
+            <mxPoint x="494.77" y="1021.87" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RA1ugfaNBRuaJpOUIRTp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RA1ugfaNBRuaJpOUIRTp-1" target="f8FCbJ_lQctMmRmD2ybC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RA1ugfaNBRuaJpOUIRTp-1" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GAN数据均衡化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225.75" y="782.2" width="79.6" height="101.87" as="geometry" />
+        </mxCell>
+        <mxCell id="RA1ugfaNBRuaJpOUIRTp-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LTA层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.25" y="838.76" width="124.25" height="26.87" as="geometry" />
+        </mxCell>
+        <mxCell id="RA1ugfaNBRuaJpOUIRTp-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GRU层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.25" y="800.63" width="124.25" height="26.87" as="geometry" />
+        </mxCell>
+        <mxCell id="RA1ugfaNBRuaJpOUIRTp-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358.25" y="760" width="124.25" height="26.87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
