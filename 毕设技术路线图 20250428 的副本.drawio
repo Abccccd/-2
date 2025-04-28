@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="p5fiXoCb0oHlGnUIcILo">
-    <mxGraphModel dx="1055" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,8 +95,8 @@
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-54" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风机结冰机理分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="369.37" y="542.12" width="160" height="48.13" as="geometry" />
         </mxCell>
-        <mxCell id="f8FCbJ_lQctMmRmD2ybC-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN-GRU-LTA结冰诊断模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" parent="1" vertex="1">
-          <mxGeometry x="252.14999999999998" y="910" width="132.19" height="40" as="geometry" />
+        <mxCell id="f8FCbJ_lQctMmRmD2ybC-56" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN-GRU-PDLA结冰诊断模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=0;" parent="1" vertex="1">
+          <mxGeometry x="244.32" y="915" width="147.85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f8FCbJ_lQctMmRmD2ybC-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;A公司风机叶片维护建议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="825" width="120" height="60" as="geometry" />
@@ -212,7 +212,7 @@
             <mxPoint x="494.77" y="1021.87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RA1ugfaNBRuaJpOUIRTp-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;LTA层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RA1ugfaNBRuaJpOUIRTp-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;PDLA层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="256.12" y="879.07" width="124.25" height="26.87" as="geometry" />
         </mxCell>
         <mxCell id="RA1ugfaNBRuaJpOUIRTp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RA1ugfaNBRuaJpOUIRTp-5" target="RA1ugfaNBRuaJpOUIRTp-4" edge="1">
@@ -227,31 +227,31 @@
         <mxCell id="RA1ugfaNBRuaJpOUIRTp-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;CNN层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="256.12" y="760" width="124.25" height="26.87" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GAN数据均衡化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;GAN数据均衡化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="592.87" y="574.3100000000001" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUhcIL0R_RjAg3wBFGVh-3" target="eUhcIL0R_RjAg3wBFGVh-9">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eUhcIL0R_RjAg3wBFGVh-3" target="eUhcIL0R_RjAg3wBFGVh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结冰特征相关性分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-3" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结冰特征相关性分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="475.38000000000005" width="92.87" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUhcIL0R_RjAg3wBFGVh-5" target="eUhcIL0R_RjAg3wBFGVh-6">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eUhcIL0R_RjAg3wBFGVh-5" target="eUhcIL0R_RjAg3wBFGVh-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风机叶片结冰样本选取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风机叶片结冰样本选取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="228.62" y="477.25" width="111.24" height="48.13" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eUhcIL0R_RjAg3wBFGVh-6" target="eUhcIL0R_RjAg3wBFGVh-3">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eUhcIL0R_RjAg3wBFGVh-6" target="eUhcIL0R_RjAg3wBFGVh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;归一化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;归一化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="483.62000000000006" y="475.38" width="89.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUhcIL0R_RjAg3wBFGVh-9" target="eUhcIL0R_RjAg3wBFGVh-2">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUhcIL0R_RjAg3wBFGVh-9" target="eUhcIL0R_RjAg3wBFGVh-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eUhcIL0R_RjAg3wBFGVh-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结冰特征重要性分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eUhcIL0R_RjAg3wBFGVh-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;结冰特征重要性分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="574.3100000000001" width="92.87" height="50" as="geometry" />
         </mxCell>
       </root>
