@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="3qfA8Mtb4AT6Ri3JGO9B">
-    <mxGraphModel dx="1277" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,18 +23,6 @@
         </mxCell>
         <mxCell id="D4osHIyZ-YNcSRswqnrZ-190" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="620" height="410" as="geometry" />
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-89" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-130" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-10" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-90" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-50" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D4osHIyZ-YNcSRswqnrZ-173" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="490" y="305" width="140" height="180" as="geometry" />
@@ -366,24 +354,6 @@
         <mxCell id="D4osHIyZ-YNcSRswqnrZ-217" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;位置编码&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="850" y="190" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-221" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;随机丢弃神经元&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="830" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-222" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;风机叶片结冰诊断分类&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1165" y="830" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-224" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="800" as="sourcePoint" />
-            <mxPoint x="170" y="800" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="D4osHIyZ-YNcSRswqnrZ-226" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="740" as="sourcePoint" />
-            <mxPoint x="180" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="D4osHIyZ-YNcSRswqnrZ-235" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;风机叶片结冰诊断结果输出&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1310" y="190" width="40" height="410" as="geometry" />
         </mxCell>
@@ -403,18 +373,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="295" as="sourcePoint" />
             <mxPoint x="170" y="305" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l1kBNgppY7Q0AlLtdItp-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="740" as="sourcePoint" />
-            <mxPoint x="470" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l1kBNgppY7Q0AlLtdItp-6" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="670" as="sourcePoint" />
-            <mxPoint x="470" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l1kBNgppY7Q0AlLtdItp-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
