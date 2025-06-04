@@ -1,14 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.1.3">
   <diagram name="第 1 页" id="ePOUjgFejFueC9woauqo">
-    <mxGraphModel dx="1213" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="809" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lijlywgBbiEAjTEvloUU-1" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;数据采集部分&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; face=&quot;SimSun&quot; style=&quot;&quot;&gt;（下位机）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="105" y="130" width="130" height="70" as="geometry" />
+        <mxCell id="kM_0o-xShKO7kopSCm6_-2" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;数据采集部分&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;（下位机）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lijlywgBbiEAjTEvloUU-4" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据采集部分&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;（下位机）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="105" y="300" width="125" height="70" as="geometry" />
+        <mxCell id="kM_0o-xShKO7kopSCm6_-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="217" y="140" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kM_0o-xShKO7kopSCm6_-12" value="&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;中央监控部分&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;SimSun&quot; style=&quot;font-size: 18px;&quot;&gt;（上位机）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM_0o-xShKO7kopSCm6_-13" value="&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;远程控制部分&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kM_0o-xShKO7kopSCm6_-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="kM_0o-xShKO7kopSCm6_-12">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="200" y="189.55" as="sourcePoint" />
+            <mxPoint x="290" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kM_0o-xShKO7kopSCm6_-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="kM_0o-xShKO7kopSCm6_-13">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="414" y="189.57999999999998" as="sourcePoint" />
+            <mxPoint x="508" y="190.02999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kM_0o-xShKO7kopSCm6_-16" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SimSun;" vertex="1" parent="1">
+          <mxGeometry x="432" y="140" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
