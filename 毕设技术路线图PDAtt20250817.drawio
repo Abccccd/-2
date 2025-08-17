@@ -234,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eUhcIL0R_RjAg3wBFGVh-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;风机叶片结冰样本选取&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="228.62" y="477.25" width="111.24" height="48.13" as="geometry" />
+          <mxGeometry x="228.62" y="475.38" width="111.24" height="48.13" as="geometry" />
         </mxCell>
         <mxCell id="eUhcIL0R_RjAg3wBFGVh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eUhcIL0R_RjAg3wBFGVh-6" target="eUhcIL0R_RjAg3wBFGVh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -264,7 +264,7 @@
         <mxCell id="yD-4OHERhprkhWVb8V8c-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yD-4OHERhprkhWVb8V8c-7" target="f8FCbJ_lQctMmRmD2ybC-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yD-4OHERhprkhWVb8V8c-7" target="yD-4OHERhprkhWVb8V8c-8">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yD-4OHERhprkhWVb8V8c-7" target="yD-4OHERhprkhWVb8V8c-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yD-4OHERhprkhWVb8V8c-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;深度学习方法&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;实验验证法&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -276,7 +276,7 @@
         <mxCell id="yD-4OHERhprkhWVb8V8c-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;归纳演绎法&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="1031.87" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yD-4OHERhprkhWVb8V8c-9">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yD-4OHERhprkhWVb8V8c-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="930" y="820" as="targetPoint" />
           </mxGeometry>
@@ -293,25 +293,25 @@
             <mxPoint x="929.75" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yD-4OHERhprkhWVb8V8c-18" target="yD-4OHERhprkhWVb8V8c-19">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yD-4OHERhprkhWVb8V8c-18" target="yD-4OHERhprkhWVb8V8c-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yD-4OHERhprkhWVb8V8c-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;文献研究法&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="140.94" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yD-4OHERhprkhWVb8V8c-19" target="yD-4OHERhprkhWVb8V8c-9">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="yD-4OHERhprkhWVb8V8c-19" target="yD-4OHERhprkhWVb8V8c-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yD-4OHERhprkhWVb8V8c-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;理论归纳法&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="870" y="306.25" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ivU4nv7Y41dZvEmP99DB-5" target="f8FCbJ_lQctMmRmD2ybC-7">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ivU4nv7Y41dZvEmP99DB-5" target="f8FCbJ_lQctMmRmD2ybC-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;改进&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GAN&lt;/font&gt;&lt;font face=&quot;SimSun&quot;&gt;的样本均衡化&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font face=&quot;SimSun&quot;&gt;改进&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GAN&lt;/font&gt;&lt;font face=&quot;SimSun&quot;&gt;的样本均衡化&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225.75" y="810" width="85.63" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ivU4nv7Y41dZvEmP99DB-7" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;风机知识&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ivU4nv7Y41dZvEmP99DB-7" value="&lt;font face=&quot;SimSun&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;风机知识&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="228.62" y="280" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
